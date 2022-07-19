@@ -1,0 +1,6 @@
+uvicorn~=0.18.2
+fastapi~=0.79.0
+pydantic~=1.9.1
+pymongo~=4.1.1
+motor~=3.0.0
+Shapely~=1.8.2
